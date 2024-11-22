@@ -1,0 +1,17 @@
+{
+  "name": "1911",
+  "version": "1.0.0",
+  "description": "this is my first project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Prabin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
